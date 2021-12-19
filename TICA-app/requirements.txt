@@ -6,12 +6,9 @@ bokeh
 streamlit_bokeh_events
 gtts
 spacy
-collections
-re
 torch
 vaderSentiment
 torchtext
-random
 pyttsx3
 playsound
 eyed3
