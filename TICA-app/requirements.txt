@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-speech_recognition
+SpeechRecognition
 bokeh
 streamlit_bokeh_events
 gtts
