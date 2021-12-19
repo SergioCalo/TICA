@@ -1,18 +1,18 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import credits
-import time
-import speech_recognition as sr
-from bokeh.models.widgets import Button
-from bokeh.models import CustomJS
-from streamlit_bokeh_events import streamlit_bokeh_events as ASR
-from TTS import TTS
-import spacy
-from collections import Counter
-import re
-import torch.nn as nn
-import torch
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-from torchtext.legacy import data
-import random
+streamlit
+pandas
+numpy as np
+time
+speech_recognition
+bokeh
+streamlit_bokeh_events
+gtts
+spacy
+collections
+re
+torch
+vaderSentiment
+torchtext
+random
+pyttsx3
+playsound
+eyed3
