@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy as np
+numpy
 time
 speech_recognition
 bokeh
