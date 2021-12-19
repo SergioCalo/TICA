@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-time
 speech_recognition
 bokeh
 streamlit_bokeh_events
